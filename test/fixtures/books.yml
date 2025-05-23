@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  isbn: MyString
+  edition: MyString
+  pages: 1
+  quantity: 1
+  price: 9.99
+  shelf_location: MyString
+  summary: MyText
+  cover_image_url: MyString
+  ano_lancamento: 2025-05-22
+  ano_aquisicao: 2025-05-22
+  author: one
+  publisher: one
+  language: one
+  status: one
+
+two:
+  name: MyString
+  isbn: MyString
+  edition: MyString
+  pages: 1
+  quantity: 1
+  price: 9.99
+  shelf_location: MyString
+  summary: MyText
+  cover_image_url: MyString
+  ano_lancamento: 2025-05-22
+  ano_aquisicao: 2025-05-22
+  author: two
+  publisher: two
+  language: two
+  status: two

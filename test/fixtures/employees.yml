@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: MyString
+  references: MyString
+  cpf: MyString
+  string: MyString
+  stateus: MyString
+  salary: 9.99
+  role: MyString
+  string: MyString
+  shift: MyString
+  string: MyString
+
+two:
+  user: MyString
+  references: MyString
+  cpf: MyString
+  string: MyString
+  stateus: MyString
+  salary: 9.99
+  role: MyString
+  string: MyString
+  shift: MyString
+  string: MyString
